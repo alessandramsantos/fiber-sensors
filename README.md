@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> 💧📍 HACK4CITIES - CONECTANDO CIDADES E PESSOAS 🌆 </h1>
+    <h1> 💧📍 Hack4Cities - Conectando Cidades e Pessoas 🌆 </h1>
     <img alt="Fiber sensor blue logo" src="https://raw.githubusercontent.com/itsaleplets/fiber-sensors/Main/src/images/blue-logo.png" width="200px" />   
 </div>
 
