@@ -15,9 +15,9 @@ function Table() {
   return (
     <table className="tabela">
       <thead>
-        <tr className="teste">
+        <tr>
           <td className="location-td">
-            <img src={location} alt='' />
+            <img src={location} alt="location blue icon" />
             Localização
           </td>
           <td>Posição</td>
@@ -36,7 +36,7 @@ function Table() {
             <td
               onClick={() => handleGeoLocation(elem.geoLocation)}
             >
-              <img src={mapIcon} alt='' />
+              <img src={ mapIcon } alt="location blue icon" />
             </td>
           </tr>
         ))}
